@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jaron 小站</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jar0n.ml/"/>
+  <updated>2019-07-28T15:53:18.000Z</updated>
+  <id>http://jar0n.ml/</id>
+  
+  <author>
+    <name>Jaron Lau</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>长三角溃于镇江</title>
+    <link href="http://jar0n.ml/2019/07/28/long-river/"/>
+    <id>http://jar0n.ml/2019/07/28/long-river/</id>
+    <published>2019-07-28T13:36:49.000Z</published>
+    <updated>2019-07-28T15:53:18.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;（本文的数据均来源于镇江市统计局官网）&lt;/p&gt;
+&lt;p&gt;各位朋友，我在前面讲述过珠三角的中山市，算是中国经济最发达地区的负面代表，城市经济在房地产泡沫潮的冲击下已经完全扑街。（中山篇链接：中山经济，亡于地产）现在，我们要讲述的是镇江，长三角的负面代表，它的城市经济，也已经坠入深渊。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;转载：&lt;br&gt; &lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg2MDE2MTczNQ==&amp;amp;mid=2247483914&amp;amp;idx=1&amp;amp;sn=b6ed6b65c8edd9c29159424ead934568&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://mp.weixin.qq.com/s?__biz=Mzg2MDE2MTczNQ==&amp;amp;mid=2247483914&amp;amp;idx=1&amp;amp;sn=b6ed6b65c8edd9c29159424ead934568&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="财经" scheme="http://jar0n.ml/categories/%E8%B4%A2%E7%BB%8F/"/>
+    
+    
+      <category term="财经" scheme="http://jar0n.ml/tags/%E8%B4%A2%E7%BB%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://jar0n.ml/2019/07/28/hello-world/"/>
+    <id>http://jar0n.ml/2019/07/28/hello-world/</id>
+    <published>2019-07-28T13:33:54.597Z</published>
+    <updated>2019-07-28T13:33:54.597Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://jar0n.ml/2019/07/28/test/"/>
+    <id>http://jar0n.ml/2019/07/28/test/</id>
+    <published>2019-07-28T12:28:38.000Z</published>
+    <updated>2019-07-28T12:30:20.828Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="latex 历史 数学" scheme="http://jar0n.ml/categories/latex-%E5%8E%86%E5%8F%B2-%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="test abc def" scheme="http://jar0n.ml/tags/test-abc-def/"/>
+    
+  </entry>
+  
+</feed>
