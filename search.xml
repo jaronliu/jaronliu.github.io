@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
+    <title><![CDATA[札记]]></title>
     <url>%2F2019%2F07%2F29%2Fnotes%2F</url>
-    <content type="text"><![CDATA[数学 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ 数学 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ 数学 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ 数学 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$ 数学 $$e^{i\theta}=cos\theta+\sin\theta i\tag{1}$$]]></content>
+    <content type="text"><![CDATA[数学 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$]]></content>
       <categories>
         <category>latex  数学</category>
       </categories>
       <tags>
-        <tag>test abc def</tag>
+        <tag>latex</tag>
+        <tag>abc</tag>
+        <tag>def</tag>
       </tags>
   </entry>
   <entry>
@@ -32,10 +34,14 @@
     <url>%2F2019%2F07%2F28%2Ftest%2F</url>
     <content type="text"><![CDATA[数学 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$]]></content>
       <categories>
-        <category>latex 历史 数学</category>
+        <category>latex</category>
+        <category>历史</category>
+        <category>数学</category>
       </categories>
       <tags>
-        <tag>test abc def</tag>
+        <tag>abc</tag>
+        <tag>def</tag>
+        <tag>test</tag>
       </tags>
   </entry>
 </search>
