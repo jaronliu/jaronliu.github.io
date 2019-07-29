@@ -410,7 +410,7 @@
             </div>
             <div class="tag-cloud-tags">
               
-                <a href="/tags/test-abc-def/" style="font-size: 12px; color: #ccc">test abc def</a> <a href="/tags/财经/" style="font-size: 12px; color: #ccc">财经</a>
+                <a href="/tags/test-abc-def/" style="font-size: 30px; color: #111">test abc def</a> <a href="/tags/财经/" style="font-size: 12px; color: #ccc">财经</a>
               
             </div>
           </div>
@@ -432,6 +432,9 @@
 
           </div>
           
+  
+    
+    <div class="comments" id="gitalk-container"></div>
   
 
 
@@ -471,7 +474,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-count">4</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -492,7 +495,9 @@
         
           
         
-        <span class="site-state-item-count">2</span>
+          
+        
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">分类</span>
         </a>
       </div>
@@ -558,7 +563,7 @@
 
     <footer id="footer" class="footer">
       <div class="footer-inner">
-        <div class="copyright">&copy; <span itemprop="copyrightYear">2019</span>
+        <div class="copyright">&copy; 2015 – <span itemprop="copyrightYear">2019</span>
   <span class="with-love" id="animate">
     <i class="fa fa-user"></i>
   </span>
@@ -727,6 +732,13 @@
 
 
   
+  
+
+  
+  
+
+  
+
 
 
 
@@ -758,6 +770,37 @@
 
 
 
+
+
+  
+    
+
+
+<script src="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+
+
+<script src="//cdn.jsdelivr.net/npm/js-md5@0.7.3/src/md5.min.js"></script>
+
+<script>
+  var gitalk = new Gitalk({
+    clientID: '379d29fd4ae17749c5c0',
+    clientSecret: '47f2944a3cae560f9c29687eb4d971ee8e7efba0',
+    repo: 'https://github.com/jaronliu/jaronliu.github.io.git',
+    owner: 'jaronliu',
+    admin: ['jaronliu'],
+    id: md5(location.pathname),
+    
+      language: 'zh-CN',
+    
+    distractionFreeMode: 'true'
+  });
+  gitalk.render('gitalk-container');
+</script>
 
 
   
